@@ -1,0 +1,8 @@
+config.*
+__pycache__
+__pycache__*
+__pycache__/*
+venv/
+.idea/Dietician.iml
+env/
+.idea/
